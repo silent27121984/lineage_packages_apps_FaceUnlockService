@@ -10,7 +10,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "org.pixelexperience.faceunlock"
+        applicationId "org.lineageos.faceunlock"
         minSdkVersion 33
         targetSdkVersion 33
         versionCode 1
